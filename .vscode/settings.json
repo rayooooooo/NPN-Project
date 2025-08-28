@@ -1,0 +1,7 @@
+{
+  "files.exclude": {
+    "**/*.graphml": true,
+    "**/__pycache__": true,
+    "**/node_modules": true
+  }
+}
